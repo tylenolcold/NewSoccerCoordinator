@@ -22,6 +22,7 @@
 		2D9F634D1EA3BB68008E5D1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D9F63501EA3BB68008E5D1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D9F63521EA3BB68008E5D1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D9F63581EA3C49A008E5D1C /* NewSoccerCoordinator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NewSoccerCoordinator.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				2D9F634D1EA3BB68008E5D1C /* Assets.xcassets */,
 				2D9F634F1EA3BB68008E5D1C /* LaunchScreen.storyboard */,
 				2D9F63521EA3BB68008E5D1C /* Info.plist */,
+				2D9F63581EA3C49A008E5D1C /* NewSoccerCoordinator.playground */,
 			);
 			path = NewSoccerCoordinator;
 			sourceTree = "<group>";
@@ -96,7 +98,7 @@
 				TargetAttributes = {
 					2D9F63421EA3BB68008E5D1C = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = A89M7MVB69;
+						DevelopmentTeam = R37NMAX6H9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,10 +263,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = A89M7MVB69;
+				DEVELOPMENT_TEAM = R37NMAX6H9;
 				INFOPLIST_FILE = NewSoccerCoordinator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = EF.NewSoccerCoordinator;
+				PRODUCT_BUNDLE_IDENTIFIER = NewSoccerCoordinator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -274,10 +276,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = A89M7MVB69;
+				DEVELOPMENT_TEAM = R37NMAX6H9;
 				INFOPLIST_FILE = NewSoccerCoordinator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = EF.NewSoccerCoordinator;
+				PRODUCT_BUNDLE_IDENTIFIER = NewSoccerCoordinator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -302,6 +304,7 @@
 				2D9F63571EA3BB68008E5D1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
